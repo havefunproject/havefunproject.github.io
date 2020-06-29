@@ -24,7 +24,7 @@
   right: 10%;
  }
  nav ul li{
-  float: left;
+  float: centre;
   display: block;
   margin: 0px 15px 0px 15px;
  }
