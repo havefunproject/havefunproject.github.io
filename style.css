@@ -17,10 +17,10 @@
   box-shadow: -1px -7px 20px 0px #888;
  }
  nav ul{
-  position:relative;
+  position:center;
   top: 20px;
   margin: 0;
-  float: center;
+  float: right;
   right: 10%;
  }
  nav ul li{
