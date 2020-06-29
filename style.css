@@ -20,11 +20,11 @@
   position:relative;
   top: 20px;
   margin: 0;
-  float: left;
+  float: right;
   right: 10%;
  }
  nav ul li{
-  float: right;
+  float: left;
   display: block;
   margin: 0px 15px 0px 15px;
  }
