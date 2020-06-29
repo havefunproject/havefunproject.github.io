@@ -21,10 +21,10 @@
   top: 20px;
   margin: 0;
   float: left;
-  right: 10%;
+  right: 20%;
  }
  nav ul li{
-  float: centre;
+  float: center;
   display: block;
   margin: 0px 15px 0px 15px;
  }
